@@ -19,7 +19,7 @@ from pprint import pprint
 
 # global/important vars
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-api_key = "3d64eb4f5299cb54cbcc53cdd96110fb"
+api_key = "your key here"
 
 # Auxillary functions
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
